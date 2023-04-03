@@ -1,5 +1,5 @@
 # AOD - Algorytmy Optymalizacji Dyskretnej
-Zbiorcze repozytorium rozwiązań zadań z przedmiotu Algorytmy Optymalizacji Dyskretnej, rok akademicki 2022/2023. Kurs prowadzony przez dra. inż. Karola Gotfryda na kierunku Informatyka Algorytmiczna, Wydział Informatyki i Telekomunikacji Politechniki Wrocławskiej.
+Zbiorcze repozytorium rozwiązań zadań z przedmiotu Algorytmy Optymalizacji Dyskretnej, rok akademicki 2022/2023. Kurs prowadzony przez dra inż. Karola Gotfryda na kierunku Informatyka Algorytmiczna, Wydział Informatyki i Telekomunikacji Politechniki Wrocławskiej.
 
 ### Lista 1 
 
