@@ -28,3 +28,11 @@ Algorytm określający czy graf jest dwudzielny (dwukolorowalny).
 Wywołanie: `julia zadanie4.jl [in]`, gdzie `[in]` - ścieżka relatywna do pliku z grafem w formacie zgodnym z wytycznymi na liście. 
 
 Program zwraca informację o tym, czy graf jest dwudzielny, oraz drukuje szczegóły rozbicia grafu na dwa rozłączne zbiory, gdy liczba wierzchołków grafu <= 200 i graf jest dwudzielny.
+
+### Lista 2
+
+Programowanie liniowe z wykorzystaniem JuMP i solverów (np. HiGHS). Tworzenie modeli do rozwiązywania problemów optymalizacyjnych i oddzielanie ich od konkretnych danych, pozwalając na większą uniwersalność.
+
+Aby uruchomić programy należy mieć zainstalowane moduły JuMP i HiGHS. Informacje na temat instalacji modułów można znaleźć [tutaj](https://jump.dev/JuMP.jl/stable/tutorials/getting_started/getting_started_with_JuMP/).
+
+Lista składa się z 5 zadań, każde z nich jest opisane szczegółowo w sprawozdaniu (plik `l2_sprawozdanie_261750.pdf`).

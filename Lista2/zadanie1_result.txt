@@ -1,0 +1,6 @@
+Minimalny łączny koszt dostaw: 8525000
+Macierz dostaw:
+            L1          L2          L3          L4
+F1           .    165000.0           .    110000.0
+F2    110000.0     55000.0           .           .
+F3           .           .    330000.0    330000.0

@@ -1,0 +1,9 @@
+Koszt najtańszej ścieżki 9->...->2 o jej czasie wynoszącym maksymalnie 23: 8.0
+Czas ścieżki: 23.0
+Przebieg ścieżki:
+9->10->5->2
+**********************
+Koszt najtańszej ścieżki 9->...->2 o jej czasie wynoszącym maksymalnie 22: 15.0
+Czas ścieżki: 16.0
+Przebieg ścieżki:
+9->3->1->2
