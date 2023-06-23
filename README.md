@@ -36,3 +36,13 @@ Programowanie liniowe z wykorzystaniem JuMP i solverów (np. HiGHS). Tworzenie m
 Aby uruchomić programy należy mieć zainstalowane moduły JuMP i HiGHS. Informacje na temat instalacji modułów można znaleźć [tutaj](https://jump.dev/JuMP.jl/stable/tutorials/getting_started/getting_started_with_JuMP/).
 
 Lista składa się z 5 zadań, każde z nich jest opisane szczegółowo w sprawozdaniu (plik `l2_sprawozdanie_261750.pdf`).
+
+### Lista 3
+
+Implementacja i analiza złożoności obliczeniowej trzech algorytmów znajdowania najkrótszych ścieżek:
+
+* algorytm Dijkstry (z kolejką priorytetową na kopcu binarnym),
+* algorytm Diala (jako kubełek struktura Set bazująca na słownikach),
+* algorytm radixheap (kubełki to kolejki priorytetowe na kopcu binarnym).
+
+Testy przeprowadzone zostały na danych testowych z [9th DIMACS Implementation Challenge - Shortest Paths](http://www.diag.uniroma1.it/challenge9/download.shtml). Wyniki testów oraz opis idei algorytmów i teoretycznej złożoności został przedstawiony w sprawozdaniu (plik `l3_sprawodzanie_261750.pdf`).
