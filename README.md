@@ -46,3 +46,16 @@ Implementacja i analiza złożoności obliczeniowej trzech algorytmów znajdowan
 * algorytm radixheap (kubełki to kolejki priorytetowe na kopcu binarnym).
 
 Testy przeprowadzone zostały na danych testowych z [9th DIMACS Implementation Challenge - Shortest Paths](http://www.diag.uniroma1.it/challenge9/download.shtml). Wyniki testów oraz opis idei algorytmów i teoretycznej złożoności został przedstawiony w sprawozdaniu (plik `l3_sprawodzanie_261750.pdf`).
+
+### Lista 4
+
+Rozwiązywanie problemów związanych z problemem maksymalnego przepływu w sieci. Szczegółowy opis treści zadań w sprawozdaniu (plik `l4_sprawozdanie_261750.pdf`). 
+
+#### Zadanie 1
+Implementacja i zastosowanie algorytmu Edmondsa–Karpa do wyznaczania maksymalnych przepływów w skierowanej hiperkostce z zastosowaniem dedykowanej struktury do przechowywania sieci residualnej. Analiza złożoności obliczeniowej i wielkości maksymalnych przepływów.
+
+#### Zadanie 2
+Redukcja problemu wyznaczania maksymalnego skojarzenia do problemu wyznaczania maksymalnego przepływu. Wykorzystanie algorytmu Edmonda–Karpa do wyznaczania maksymalnego skojarzenia w grafie dwudzielnym o równolicznych zbiorach rozłącznych $|V_1| = |V_2| = 2^k$. Testy sprawdzające wielkości maksymalnych przepływów w zależności od liczby $i$ sąsiadów każdego z wierzchołków z $V_1$ oraz złożoność obliczeniową w zależności od $k$.
+
+#### Zadanie 3
+Stworzenie generatorów modeli programowania liniowego dla problemów z zadań 1 i 2. Generatory tworzą pliki w formie przystosowanej do uruchomienia z użyciem JuMP (model HiGHS) w języku Julia.
